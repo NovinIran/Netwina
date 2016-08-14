@@ -1,0 +1,26 @@
+{
+    "name": "noviniran/netwina",
+    "version": "0.0.1",
+    "type": "project",
+    "description": "NovinIran Web based Integrated Software",
+    "keywords": ["framework", "cms"],
+    "homepage": "http://noviniran.com",
+    "authors": [
+        {
+          "name": "Amir Hosein Ghannad Kashani",
+          "email": "amir369x@gmail.com",
+          "role": "Lead Developer"
+        },
+        {
+          "name": "Nader Rafati",
+          "email": "iranwz@gmail.com",
+          "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9 || ^7.0",
+    },
+    "autoload": {
+        "files": ["src/test.php"],
+    }
+}
