@@ -18,9 +18,9 @@
         }
     ],
     "require": {
-        "php": ">=5.5.9 || ^7.0",
+        "php": ">=5.5.9 || ^7.0"
     },
     "autoload": {
-        "files": ["src/test.php"],
+        "files": ["src/test.php"]
     }
 }
