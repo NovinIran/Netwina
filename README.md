@@ -1,2 +1,2 @@
 # Netwina
-Novin Iran Web based Integrated Software
+NovinIran Web based Integrated Software
